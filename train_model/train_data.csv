@@ -1,0 +1,6 @@
+heart_rate,temperature,spo2,label
+85,36.9,98,normal
+120,38.5,93,anomaly
+55,35.5,92,anomaly
+75,36.8,97,normal
+...
